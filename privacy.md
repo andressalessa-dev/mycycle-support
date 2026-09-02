@@ -2,9 +2,13 @@
 
 **Last updated: September 2, 2026**
 
-MyCycle is a menstrual cycle tracking app designed to help you understand and keep track of your cycle while respecting your privacy.
+Your privacy is a core part of how MyCycle is designed.
 
-This Privacy Policy explains what information MyCycle stores and how information may be processed when you use the app.
+MyCycle does not require you to create an account, provide your name, email address, or other personal identity information to track your cycle.
+
+The menstrual and health information you enter in MyCycle stays locally on your device. Your period dates, flow information, symptoms, and personal notes are not uploaded to a MyCycle account or server and are not sent to Firebase Analytics.
+
+In other words, MyCycle does not associate the cycle information you enter with your identity.
 
 ## Information You Enter in MyCycle
 
@@ -17,64 +21,74 @@ MyCycle allows you to record information related to your menstrual cycle, includ
 
 This information is used to provide MyCycle's cycle tracking, history, predictions, and related features.
 
-Your menstrual cycle entries, symptoms, flow information, and personal notes are stored locally on your device.
+This information is stored locally on your device.
 
-MyCycle does not send the content of these entries to Firebase Analytics.
+MyCycle does not require an account to use these features, and the content you enter is not sent to MyCycle's servers or Firebase Analytics.
 
 ## Analytics
 
 MyCycle uses Google Firebase Analytics to understand how the app is used and to help improve its functionality and user experience.
 
-Analytics may include information such as:
+Firebase Analytics may process technical and usage information such as:
 
 - App launches
 - Screen views
 - Interactions with app features
 - General device and app information
+- Analytics identifiers provided by Firebase
 
-MyCycle does not send the content of your personal notes, menstrual cycle entries, flow information, or symptoms to Firebase Analytics.
+This analytics information is separate from the menstrual and health information you enter into MyCycle.
+
+MyCycle does not send your period dates, cycle history, flow information, symptoms, or personal notes to Firebase Analytics.
+
+MyCycle does not use Firebase Analytics to read or analyze the personal information you enter into the app.
 
 Analytics information is not used by MyCycle for advertising.
 
 ## Menstrual and Health Information
 
-Information you record about your menstrual cycle, symptoms, flow, and personal notes is used to provide the app's tracking functionality.
+Your menstrual and health information remains locally on your device.
 
-MyCycle does not sell this information.
+MyCycle does not:
 
-MyCycle does not use your menstrual or health information for advertising or marketing purposes.
+- Require an account to store your cycle information
+- Upload your cycle entries or notes to a MyCycle server
+- Send your cycle entries, symptoms, flow information, or notes to Firebase Analytics
+- Sell your menstrual or health information
+- Share your menstrual or health information with advertisers
+- Use your menstrual or health information for advertising or marketing
 
 ## Cycle and Fertility Predictions
 
-MyCycle may provide estimates about your menstrual cycle, menstrual phases, upcoming periods, and potentially fertile days based on the information recorded in the app.
+MyCycle may provide estimates about your menstrual cycle, menstrual phases, upcoming periods, and potentially fertile days based on the information stored locally in the app.
 
 These predictions are estimates only.
 
 MyCycle is not a medical device, and its predictions and information should not be considered medical advice or used as a method of contraception.
 
-## Third-Party Services
+## Third-Party Analytics
 
-MyCycle uses Google Firebase Analytics, a service provided by Google, to collect and process analytics information about app usage.
+MyCycle uses Google Firebase Analytics to collect technical and usage analytics.
 
-Google may process certain technical and usage information in accordance with its own privacy policies and terms.
+Google may process analytics identifiers and certain technical and usage information in accordance with its own privacy practices.
 
-MyCycle does not intentionally provide Firebase Analytics with the content of your menstrual cycle entries, symptoms, flow information, or personal notes.
+The menstrual and health information you enter into MyCycle is not intentionally provided to Firebase Analytics.
 
 ## Data Sharing and Sale
 
 MyCycle does not sell your personal data.
 
-MyCycle does not share your menstrual cycle entries, symptoms, flow information, or personal notes with advertisers.
+Your menstrual cycle entries, symptoms, flow information, and personal notes are not shared with advertisers.
 
-Technical and usage information may be processed by Firebase Analytics as described above for analytics purposes.
+Technical and usage analytics may be processed by Firebase Analytics as described above.
 
 ## Data Retention and Deletion
 
-Your menstrual cycle entries and other information entered into MyCycle are stored locally on your device.
+Your menstrual cycle entries and other information you enter into MyCycle are stored locally on your device.
 
-You can remove information you have entered through the functionality available within the app. Removing the app from your device may also remove locally stored MyCycle data.
+You can remove information through the functionality available within the app. Removing MyCycle from your device may also remove locally stored MyCycle data.
 
-Analytics information processed through Firebase Analytics may be retained in accordance with Google's applicable data retention practices.
+Analytics information processed through Firebase Analytics may be retained according to Google's applicable data retention practices.
 
 ## Children's Privacy
 
